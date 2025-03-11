@@ -23,7 +23,7 @@ class Settings extends StatelessWidget {
                   size: 18,
                 ),
                 title: Text(
-                  "T H E M E",
+                  "D A R K - T H E M E",
                   style: TextStyle(fontSize: 15),
                 ),
                 trailing: Theme_Switch(),
